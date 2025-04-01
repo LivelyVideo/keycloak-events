@@ -1,0 +1,3 @@
+io.phasetwo.keycloak.resources.EventsResourceProviderFactory
+io.phasetwo.keycloak.resources.RealmAttributesResourceProviderFactory
+io.phasetwo.keycloak.resources.WebhooksResourceProviderFactory

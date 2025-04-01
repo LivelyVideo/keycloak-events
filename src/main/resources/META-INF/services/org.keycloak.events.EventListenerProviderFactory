@@ -1,0 +1,3 @@
+io.phasetwo.keycloak.events.HttpSenderEventListenerProviderFactory
+io.phasetwo.keycloak.events.ScriptEventListenerProviderFactory
+io.phasetwo.keycloak.events.WebhookSenderEventListenerProviderFactory
